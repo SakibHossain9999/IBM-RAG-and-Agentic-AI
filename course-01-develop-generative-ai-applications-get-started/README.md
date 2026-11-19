@@ -6,11 +6,11 @@ Building generative AI applications with IBM watsonx.ai, IBM Granite, LangChain,
 
 | # | Lab | Notebook |
 |---|-----|----------|
-| 1 | Prompt Engineering and LangChain Prompt Templates | [01-foundations-of-generative-ai-and-prompt-engineering](01-foundations-of-generative-ai-and-prompt-engineering/In-Context%20Learning%20and%20Prompt%20Templates%20for%20Advanced%20AI.ipynb) |
+| 1 | Master Prompt Engineering and LangChain PromptTemplates | [01-foundations-of-generative-ai-and-prompt-engineering](01-foundations-of-generative-ai-and-prompt-engineering/In-Context%20Learning%20and%20Prompt%20Templates%20for%20Advanced%20AI.ipynb) |
 
 ---
 
-## Lab 1: Prompt Engineering and LangChain Prompt Templates
+## Lab 1: Master Prompt Engineering and LangChain PromptTemplates
 
 Prompt experiments with IBM Granite (`ibm/granite-4-h-small`) on watsonx.ai, followed by reusable LangChain LCEL chains for common LLM tasks.
 
