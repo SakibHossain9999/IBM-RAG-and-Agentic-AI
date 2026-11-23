@@ -4,10 +4,10 @@ Building generative AI applications with IBM watsonx.ai, IBM Granite, LangChain,
 
 ## Labs
 
-| # | Lab | Notebook |
-|---|-----|----------|
-| 1 | Master Prompt Engineering and LangChain PromptTemplates | [01-foundations-of-generative-ai-and-prompt-engineering](01-foundations-of-generative-ai-and-prompt-engineering/In-Context%20Learning%20and%20Prompt%20Templates%20for%20Advanced%20AI.ipynb) |
-| 2 | Build Smarter AI Apps: Empower LLMs with LangChain | [02-introduction-to-langchain-in-genai-applications](02-introduction-to-langchain-in-genai-applications/Build%20Smarter%20AI%20Apps%20Empower%20LLMs%20with%20LangChain.ipynb) |
+| # | Module | Lab | Notebook |
+|---|--------|-----|----------|
+| 1 | Foundations of Generative AI and Prompt Engineering | Master Prompt Engineering and LangChain PromptTemplates | [In-Context Learning and Prompt Templates for Advanced AI.ipynb](01-foundations-of-generative-ai-and-prompt-engineering/In-Context%20Learning%20and%20Prompt%20Templates%20for%20Advanced%20AI.ipynb) |
+| 2 | Introduction to LangChain in GenAI Applications | Build Smarter AI Apps: Empower LLMs with LangChain | [Build Smarter AI Apps Empower LLMs with LangChain.ipynb](02-introduction-to-langchain-in-genai-applications/Build%20Smarter%20AI%20Apps%20Empower%20LLMs%20with%20LangChain.ipynb) |
 
 ---
 
